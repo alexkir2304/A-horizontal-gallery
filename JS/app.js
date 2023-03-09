@@ -61,8 +61,8 @@ for (let i = 1; i <= 17; i++) {
 
 let cards = document.querySelectorAll('.card');
 
-console.log(mainWrapper.childNodes[0])
-console.log(mainWrapper.children[0])
+// console.log(mainWrapper.childNodes[0])
+// console.log(mainWrapper.children[0])
 // let test = mainWrapper.childNodes[0]
 // test.style.transform = 'translateX(190px)'
 
